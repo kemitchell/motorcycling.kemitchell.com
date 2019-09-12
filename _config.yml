@@ -1,0 +1,15 @@
+title: Mitchell’s Motorcycling Pages
+description: notes on motorcycling
+url: https://motorcycling.kemitchell.com
+author: Kyle E. Mitchell
+homepage: https://kemitchell.com
+repository: "https://github.com/kemitchell/writing.kemitchell.com"
+exclude:
+- Gemfile
+- Gemfile.lock
+- publish
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

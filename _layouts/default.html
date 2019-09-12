@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang=en-US>
+  <head>
+    <meta charset=UTF-8>
+    <title>{{site.title}} / {{ page.title }}</title>
+    <link rel=stylesheet href=https://readable.kemitchell.com/normalize.css type=text/css>
+    <link rel=stylesheet href=https://readable.kemitchell.com/all.css type=text/css>
+    <link rel=alternate href=/feed.xml type=application/atom+xml>
+  </head>
+  <body>
+    <header>
+      <h1>{{site.title}}</h1>
+    </header>
+    <nav>
+      <a href=/>index</a>
+      <a href=/resources>resources</a>
+    </nav>
+    <main>
+{% if page.title %}<h1>{{page.title}}</h1>{% endif %}
+{{ content }}
+    </main>
+    <footer>
+      <p>&copy; <a href=https://kemitchell.com>K.E. Mitchell</a></p>
+    </footer>
+  </body>
+</html>
