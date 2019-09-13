@@ -16,6 +16,7 @@ title: Resources
 - [Dave Moss Tuning](https://davemosstuning.com)
 - [Mike on Bikes](https://www.youtube.com/channel/UC3s6-k8S8pX2JzeRzYS24UQ)
 - [MC Garage](https://www.motorcyclistonline.com/tags/mc-garage-0/)
+- [Throttle Out Garage](https://www.motortrendondemand.com/show/throttle-out/)
 - [Canyon Chasers](https://www.youtube.com/user/canyonchaser)
 - [MotoJitsu](https://www.motojitsu.com/)
 - [RaceTech](https://www.youtube.com/user/racetechsuspension)
